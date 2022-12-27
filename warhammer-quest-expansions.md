@@ -14,7 +14,6 @@
 
 ## Item Cards (1.75" x 2.5")
 	  41	Hero Items (13 x 3, + 2 extra)
-	   0	Enemy Items
 	   1	Quest Items
 	   2	Quest Effects
    =  44	Total
